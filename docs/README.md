@@ -50,11 +50,11 @@ These documents are living artifacts. If you identify gaps, ambiguities, or oppo
 
 ## Related Resources
 
-- For integration with GitHub Copilot Spaces, consider adding process-specific docs to your project's `.copilot/` directory to provide AI-assisted context during development.
+- Consider adding process-specific docs to your project's `.copilot/` directory to provide AI-assisted context during development (as mentioned in the Project Management Overview).
 - Project templates and additional resources can be found in individual project repositories.
 
 ---
 
-**Note**: This documentation addresses the onboarding and discoverability gap identified in [Issue #2](https://github.com/luisruval/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+**Note**: This documentation addresses the onboarding and discoverability gap identified in [Issue #2](../../issues/2).
 
 For questions or feedback, contact the Project Management Office or your team's assigned Project Manager.
